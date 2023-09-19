@@ -1,0 +1,22 @@
+.header {
+    background-color: lightgray;
+    padding: 20px;
+    position: absolute;
+    text-align: center;
+    left : 0%;
+    right : 0%;
+    top : 0%;
+  }
+  .toy {
+    background-color: rgb(195, 129, 213);
+    position: absolute;
+    width: 400px;
+    height: 422px;
+    top : 27.5%;
+    border: 2px solid black;
+    padding: 10px;
+    left : 33.33%;
+    text-align: center;
+    line-height: 100px;
+  }
+  
